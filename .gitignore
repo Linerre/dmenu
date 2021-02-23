@@ -1,0 +1,3 @@
+# ignore orig/rej files
+*.rej
+*.orig
