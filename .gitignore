@@ -1,3 +1,4 @@
 # ignore orig/rej files
+dmenu
 *.rej
 *.orig
